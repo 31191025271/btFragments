@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://mrhoa.com/wp-content/uploads/2019/01/hoa-dep-huong-duong.jpg</item>
+        <item>https://anhdep123.com/wp-content/uploads/2020/11/anh-hoa-dep-tu-nhien-dep.jpg</item>
+        <item>https://kenh14cdn.com/thumb_w/600/2016/f1-1453528942664.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://yolo.vn/wp-content/uploads/2019/08/hinh-anh-cho-pomsky-dep-45.jpg</item>
+        <item>https://bigdata-vn.com/wp-content/uploads/2021/09/Hinh-anh-cho-dep-anh-cun-cung-xinh-rung-tim.jpg</item>
+        <item>https://truongquochoc.com/wp-content/uploads/2020/10/40-hinh-anh-cun-con-sieu-de-thuong-ngo-nghinh-1.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://lavenderstudio.com.vn/wp-content/uploads/2017/03/chup-san-pham.jpg</item>
+        <item>https://images.squarespace-cdn.com/content/v1/53883795e4b016c956b8d243/1562602218024-ENISSWFONIQLITPFBKTU/chup-anh-thuc-an-1.jpg?format=1000w</item>
+        <item>https://d2och25llwfr54.cloudfront.net/wp-content/uploads/2020/02/32.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
